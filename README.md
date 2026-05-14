@@ -6,7 +6,7 @@ Sou apaixonado por unir tecnologia, educação e impacto social. Com uma trajet�
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Tenho um **Doutorado em Sociologia** e uma **Pós-graduação em Arquitetura e Desenvolvimento de Sistemas**.
+- 🎓 Tenho um **Doutorado em Sociologia** e uma **Pós-graduação em Arquitetura e Desenvolvimento em Java**.
 - 💼 Atualmente, atuo como Supervisor de Conteúdo Educacional na **Alura Latam**, além de ser Instrutor de Programação.
 - 🌍 Sou de São Paulo, mas moro em Niterói, no Rio de Janeiro.
 - 🗣️ Sou entusiasta de idiomas: fluente em Inglês, avançado em Espanhol e com nível intermediário em Francês, Italiano e Catalão (além do Português nativo).
@@ -38,5 +38,18 @@ Quando não estou programando ou ensinando, eu gosto de:
 
 ### 📊 Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ericmonne&show_icons=true&theme=radical)](https://github.com/ericmonne)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmonne&layout=compact&theme=radical)](https://github.com/ericmonne)
+<p align="center">
+  <!-- Stats gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ericmonne&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmonne&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <!-- Streak (sequência de commits) -->
+  <img src="https://streak-stats.demolab.com?user=ericmonne&theme=tokyonight" />
+</p>
+
