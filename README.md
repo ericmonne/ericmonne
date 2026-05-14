@@ -58,11 +58,9 @@ Quando não estou programando ou ensinando, eu gosto de:
   <img src="https://github-profile-trophy.vercel.app/?username=ericmonne&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
 ---
+
 ## 📈 Gráfico de Atividade
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericmonne&theme=tokyo-night&hide_border=false" />
 </div>
----
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=ericmonne&color=58A6FF&style=flat-square&label=Visualizações+do+perfil)
-</div>
+
