@@ -57,7 +57,6 @@ Quando não estou programando ou ensinando, eu gosto de:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ericmonne&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
----
 
 ## 📈 Gráfico de Atividade
 <div align="center">
