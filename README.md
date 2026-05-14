@@ -34,7 +34,7 @@ Quando não estou programando ou ensinando, eu gosto de:
 ### 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/ericmonnefo/)
-- [Meu perfil na Alura] (https://cursos.alura.com.br/user/eric-oliveira4)
+- [Meu perfil na Alura](https://cursos.alura.com.br/user/eric-oliveira4)
 
 ### 📊 Estatísticas do GitHub
 
