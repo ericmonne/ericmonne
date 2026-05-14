@@ -53,12 +53,12 @@ Quando não estou programando ou ensinando, eu gosto de:
   <img src="https://streak-stats.demolab.com?user=ericmonne&theme=tokyonight" />
 </p>
 
-## 🏆 Troféus
+### 🏆 Troféus
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ericmonne&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
 
-## 📈 Gráfico de Atividade
+### 📈 Gráfico de Atividade
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericmonne&theme=tokyo-night&hide_border=false" />
 </div>
