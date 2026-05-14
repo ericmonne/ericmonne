@@ -38,7 +38,5 @@ Quando não estou programando ou ensinando, eu gosto de:
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ericmonne&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmonne&layout=compact&theme=radical" />
-</div>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ericmonne&show_icons=true&theme=radical)](https://github.com/ericmonne)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmonne&layout=compact&theme=radical)](https://github.com/ericmonne)
