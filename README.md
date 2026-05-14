@@ -23,6 +23,9 @@ Sou apaixonado por unir tecnologia, educação e impacto social. Com uma trajet�
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,mysql,git,github,javascript,typescript,aws,hibernate,idea,maven,gradle" alt="Minhas Habilidades" />
+</div>
 
 ### 🎲 Além do código
 
@@ -37,6 +40,12 @@ Quando não estou programando ou ensinando, eu gosto de:
 - [Meu perfil na Alura](https://cursos.alura.com.br/user/eric-oliveira4)
 
 ### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericmonne&theme=tokyonight" alt="Repositórios por linguagem" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericmonne&theme=tokyonight" alt="Estatísticas Gerais" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ericmonne&theme=tokyonight" alt="Linguagens com mais commits" />
+</div>
 
 <p align="center">
   <!-- Stats gerais -->
